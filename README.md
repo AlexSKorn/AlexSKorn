@@ -1,4 +1,4 @@
-Hi, I'm Alex Korn, I am currently a part-time graduate student at Georgia Institute of Technology and a Full Stack Developer at Cox Automtoive.
+Hi, I'm Alex Korn, I am a software engineering consultant at Slalom and enjoy exploring the full stack!
 
 <!---
 AlexSKorn/AlexSKorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
