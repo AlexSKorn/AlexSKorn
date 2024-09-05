@@ -1,4 +1,4 @@
-Hi, I'm Alex Korn, I am a software engineering consultant at Slalom and enjoy exploring the full stack!
+Hi, I'm Alex Korn, I am a Senior Software Engineer at Okta and enjoy exploring the full stack!
 
 <!---
 AlexSKorn/AlexSKorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
